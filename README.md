@@ -3,7 +3,7 @@ This is me, an aspiring developer and passionate UI/UX designer. Also a caffeine
 
 # About me
 - 🔭 I’m currently working on my portfolio website, stay tuned!
-- 🌱 I’m learning Docker, Docker and Docker.
+- 🌱 I’m learning blockchain and web3, really excited!!
 - 👯 Let's work together on anything development-related :)
 - 💬 Ask me about web development, UI/UX designing, or any sort of programming in general. Also my tier-list of caffeinated drinks.
 - 🎯 Fun fact: I'll fill this out when I come up with one.
