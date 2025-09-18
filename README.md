@@ -16,10 +16,10 @@ This is me, an aspiring developer and passionate UI/UX designer. Also a caffeine
 # Featured projects
 - [Xpecto '25](https://github.com/Voldemort271/xpecto-25): Website for the technical festival in IIT Mandi
 - [Enlightenment Bibliotheca](https://github.com/Voldemort271/enlightenment-bibliotheca): A library management system built with tkinter and MySQL
-- I hope I had more
+- I wish I had more
 
 # My stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=voldemort&show_icons=true&theme=dark)
+<!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=voldemort&show_icons=true&theme=dark) -->
 
 
 # <p align="center">Happy coding!</p>
